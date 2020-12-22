@@ -70,7 +70,7 @@ function setup() {
   
   World.add(world,ball);
 
-  slingShot = new SlingShot(this.ball,{x:200,y:200});
+  slingShot = new slingShot(this.ball,{x:200,y:200});
 
 }
 
